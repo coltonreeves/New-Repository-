@@ -1,1 +1,1 @@
-This is my readmd file
+This is my readme file
